@@ -4,8 +4,9 @@ Name:		git2svn
 Version:	0.4
 Release:	1
 License:	MIT
-Source0:	http://repo.or.cz/w/git2svn.git/snapshot/be694f8968b25339e5f3f05e462bc85d43148280.tar.gz#/%{name}-%{version}.tgz
-# Source0-md5:	53c5cfee8719dbe3f8e04dc7b96636c6
+#Source0Download:	http://repo.or.cz/w/git2svn.git/snapshot/be694f8968b25339e5f3f05e462bc85d43148280.tar.gz#/%{name}-%{version}.tgz
+Source0:	git2svn-0.4.tgz
+# Source0-md5:	c1d78d480be39a1551c76dd1c23c4ea6
 Group:		Development/Languages
 URL:		http://repo.or.cz/w/git2svn.git
 BuildRequires:	rpm-perlprov >= 4.1-13
