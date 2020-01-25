@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	git2svn - converts a git branch to a svn ditto
 Name:		git2svn
 Version:	0.4
